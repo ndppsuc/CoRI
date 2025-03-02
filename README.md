@@ -97,4 +97,9 @@ Suggestions:
 For questions or suggestions, please contact me.
 
 
+## Reference
+we reference the datasets and some baseline below:
+[TMPT](https://github.com/Leon-Francis/Multi-Modal-Stance-Detection)
+
+
 
