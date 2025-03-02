@@ -12,10 +12,10 @@ CoRI is an innovative framework for multimodal stance detection, focusing on ana
 - Demonstrated superior performance in both accuracy and robustness compared to existing methods on three public datasets
 
 ## 🔍 System Architecture
-[Insert your system architecture diagram here]
-<!-- 
 You can add your image using:
-![CoRI Framework](path_to_your_image/framework.png)
+![bias case](fig1.png)
+![CoRI Framework](fig27.png)
+![case study](casestudy.png)
 
 Suggestions:
 1. Create an 'assets' or 'images' folder for storing images
