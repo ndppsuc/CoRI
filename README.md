@@ -13,16 +13,19 @@ CoRI is an innovative framework for multimodal stance detection, focusing on ana
 
 ## 🔍 System Architecture
 You can add your image using:
-![bias case](fig1.png)
+
 ![CoRI Framework](fig27.png)
-![case study](casestudy.png)
+
 
 Suggestions:
 1. Create an 'assets' or 'images' folder for storing images
 2. Name your image as 'framework.png' or 'architecture.png'
 3. Use relative paths for image references
--->
+## casestudy
 
+![case study](casestudy.png)
+## case of image bias
+![bias case](fig1.png)
 ## ⭐ Key Features
 - **Multimodal Content Filtering**:
   - Intelligent image selection
